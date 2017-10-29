@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	
+}
+
+h1 {
+    text-align: center;
+    font-family: Oswald-Bold;
+    background: #797272;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 16px;
+}
+
+th {
+    border: 1px solid white;
+    font-size: 18px;
+    font-family: Oswald-Bold;
+    background: #83c6ff;
+}
+
+tr{
+
+}
+
+td{
+border: 1px solid white;
+font-family: lato-Regular;
+}
+
+.a{
+	text-align: left;
+}
+
+.trcolor{
+	background-color: skyblue;
+}
